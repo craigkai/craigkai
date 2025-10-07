@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Craig Kaiser
-
-### 💻 Full-Stack Developer | 🚗 Automotive Tech Enthusiast | 🏐 Sports Tech Builder
+# 👋 Hi, I'm Craig
+### Full-Stack Developer | Tech Enthusiast |
 
 [![GitHub followers](https://img.shields.io/github/followers/craigkai?style=social)](https://github.com/craigkai)
 [![GitHub stars](https://img.shields.io/github/stars/craigkai?style=social)](https://github.com/craigkai)
@@ -40,6 +39,24 @@ Customizable digital dashboard system for performance vehicles with real-time te
 [![Wiki](https://img.shields.io/badge/Docs-Wiki-green?style=for-the-badge&logo=bookstack)](https://wiki.kaiserengineering.io/en/Gen2-FordFocusSTRS-Customization)
 
 **Tech Stack:** JavaScript • HTML5 • CSS3 • Bootstrap
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎫 Request Tracker (RT)
+**Enterprise Ticket Management**
+
+Contributing to RT, a powerful open-source issue tracking and ticketing system used by organizations worldwide.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/bestpractical/rt)
+[![Contributor](https://img.shields.io/badge/Role-Contributor-purple?style=for-the-badge&logo=git)](https://github.com/bestpractical/rt)
+
+**Tech Stack:** Perl • HTML • JavaScript
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
