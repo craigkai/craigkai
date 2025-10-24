@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Craig
-### Full-Stack Developer | Tech Enthusiast |
+### Full-Stack Developer | Tech Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/craigkai?style=social)](https://github.com/craigkai)
 [![GitHub stars](https://img.shields.io/github/stars/craigkai?style=social)](https://github.com/craigkai)
