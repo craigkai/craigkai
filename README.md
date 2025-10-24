@@ -16,7 +16,7 @@
 <tr>
 <td width="50%">
 
-### 🏐 Volleyman
+### 🏐 Volleyhub
 **Tournament Management System**
 
 A comprehensive volleyball tournament manager built for organizing and running competitive events.
